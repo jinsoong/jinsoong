@@ -1,5 +1,4 @@
-## Hi there 👋
-
+![Waving](assets/header.svg)
 <!--
 **jinsoong/jinsoong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
